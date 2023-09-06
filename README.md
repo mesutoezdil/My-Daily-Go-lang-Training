@@ -23,3 +23,6 @@ Learning Go (also known as Golang) can offer several benefits to DevOps engineer
 9- Microservices: Go is well-suited for microservice architectures. Its lightness and speed allow for scalable and manageable microservices.
 
 10- Industry Standard: Go is increasingly becoming an industry standard, particularly in cloud computing and DevOps solutions. Competency in this language offers advantages in terms of employability and the ability to take on more significant roles in projects.
+
+Color: 
+export PS1="\[\033[34m\]\u\[\033[0m\]@\[\033[32m\]\h\[\033[0m\] \[\033[33m\]\W\[\033[31m\] % \[\033[0m\]"
