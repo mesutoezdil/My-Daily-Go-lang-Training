@@ -29,5 +29,3 @@ func main() {
 var studentName, grade, isPassed = "John Doe", 77, true
 
 studentName, grade, isPassed := "John Doe", 77, true
-
-studentName
